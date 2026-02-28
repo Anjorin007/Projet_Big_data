@@ -1,6 +1,6 @@
 # 📊 Projet Big Data 
 
-**PIGIER BÉNIN | Master Intelligence Artiffielle et Big data **
+**PIGIER BÉNIN | Master Intelligence Artiffielle et Big data**
 
 > Projet d'examen réalisé dans le cadre du module *Projet Big Data*, sous la direction du Dr. BABATOUNDE Moctard Olouladé.
 
